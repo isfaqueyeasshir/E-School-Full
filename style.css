@@ -1,0 +1,96 @@
+.navbar img{
+    height: 50px;
+    width: auto;
+}
+section{
+    margin-top: 30px;
+}
+.bg-color{
+    background-color: #F0FFF0;
+}
+
+.text-color{
+    color: black;
+    font-weight: 500;
+    margin-right: 20px;
+}
+.text-white{
+    color: white;
+    font-weight: 200;
+}
+.header{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+button{
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    padding: 5px 20px;
+    color: white;
+    font-weight: 200;
+}
+h1{
+    font-weight: 700;
+}
+.text-red{
+    color: #FD511A;
+    margin-top: 30px;
+}
+.box-info{
+        padding: 10px 20px;
+        text-align: center;
+        margin: 10px;
+        border-radius: 5px;
+        background-color: #F0FFF0 ;
+    }
+.box-info img{
+        display: block;
+        margin: 10px auto;
+    }
+.box-info:hover{
+    box-shadow: 10px 10px 20px gray;
+    background-color: white;
+}
+h2{
+    text-align: center;
+    margin: 50px auto 30px auto;
+    font-weight: bold;
+}
+#special-color{
+    color: #413960;
+}
+.card img{
+padding: 15px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+background-color: white;
+border-top: none;
+}
+.card-footer img{
+    padding-bottom: 15px;
+  
+}
+#testimonial-text{
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.footer{
+    background-color: #282531;
+    padding-top: 40px;
+    margin-top: 100px;
+}
+ul{
+    list-style-type: none;
+}
+footer{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 60px;
+}
+
